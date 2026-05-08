@@ -4,3 +4,5 @@ The app is filled with healthy food recipe suggestions. The app user chooses wha
 This is my android app
 You can view it on MyDrive.
 https://drive.google.com/file/d/1X-L37wsyojcFOlBNncRe8M7z8C48oz__/view?usp=sharing
+You can download the zip file here:
+(https://drive.google.com/uc?export=download&id=1X-L37wsyojcFOlBNncRe8M7z8C48oz__)
